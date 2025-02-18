@@ -1,8 +1,3 @@
-# Selenium UI Automation Maven Project
-Below is the IDE run of the Project
-
-https://github.com/user-attachments/assets/c4c85f80-43b7-4b9b-a1de-8c6db9b5c818
-
 ## Project Overview
 This project is a Selenium-based UI automation framework using Maven, designed for end-to-end testing of web applications. The framework supports test execution and generates detailed ExtentReports.
 
@@ -25,7 +20,7 @@ Run the following commands in your terminal to clone the code:
 git clone https://github.com/Adnan-Aashiq/POS-UI-Automation-Selenium-Maven.git
 ```
 
-Goto the Project diretory like the below command that will let you go to the Project directory.
+Goto the Project directory like the below command that will let you go to the Project directory.
 ```bash
 cd POS-UI-Automation-Selenium-Maven
 ```
@@ -44,6 +39,4 @@ mvn test
 ### 3. View the Test Reports
 After running the tests, navigate to the Project folder and open the extentReports.html file in a browser to view detailed execution results.
 
-## Contact
-If you encounter any issues or have questions, feel free to contact me at **adnanaashiq457@gmail.com** and WhatsApp me on **+92-302-2149193**.
 
