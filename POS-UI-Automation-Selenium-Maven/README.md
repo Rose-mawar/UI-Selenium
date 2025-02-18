@@ -17,7 +17,7 @@ Before cloning and running this project, ensure the following are installed on y
 ### 1. Clone the Repository
 Run the following commands in your terminal to clone the code:
 ```bash
-git clone https://github.com/Adnan-Aashiq/POS-UI-Automation-Selenium-Maven.git
+git clone https://github.com/Rose-mawar/UI-Selenium.git
 ```
 
 Goto the Project directory like the below command that will let you go to the Project directory.
